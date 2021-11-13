@@ -1,1 +1,1 @@
-from stuart_plot import thing
+from .stuart_plot import Figure

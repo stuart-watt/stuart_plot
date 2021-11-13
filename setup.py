@@ -13,7 +13,6 @@ setup(
         description=DESCRIPTION,
         long_description=LONG_DESCRIPTION,
         packages=find_packages(),
-        packages=setuptools.find_packages(),
         python_requires=">=3.6",
         install_requires=[
             "matplotlib",
