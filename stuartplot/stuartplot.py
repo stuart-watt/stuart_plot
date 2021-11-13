@@ -12,7 +12,7 @@ class Figure:
                 ):
 
         self.fig = plt.figure(figsize=figsize)
-        self.fig.subplots_adjust(wspace=spacing[0], hspace=spacing[1])
+        self.fig.subplots_adjust(wspace=spacing[0], hspace=spacing[1], top=0.8)
 
         if title is not None:
             self.fig.suptitle(title, fontsize=title_size)
