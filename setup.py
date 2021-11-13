@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.4' 
+VERSION = '0.0.6' 
 DESCRIPTION = 'Matplotlib wrapper'
 LONG_DESCRIPTION = 'Simple wrapper for the matplotlib templates I frequently use.'
 

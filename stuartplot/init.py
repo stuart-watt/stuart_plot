@@ -1,1 +1,1 @@
-from .stuartplot import Figure
+from stuartplot import Figure

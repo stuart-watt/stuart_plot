@@ -1,1 +1,0 @@
-from .stuart_plot import Figure

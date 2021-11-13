@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-class Figure():
+class Figure:
 
     def __init__(self, 
                 figsize=(8, 8),
