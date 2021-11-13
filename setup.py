@@ -1,12 +1,12 @@
 from setuptools import setup, find_packages
 
-VERSION = '0.0.1' 
+VERSION = '0.0.4' 
 DESCRIPTION = 'Matplotlib wrapper'
 LONG_DESCRIPTION = 'Simple wrapper for the matplotlib templates I frequently use.'
 
 # Setting up
 setup(
-        name="stuart_plot", 
+        name="stuartplot", 
         version=VERSION,
         author="Stuart Watt",
         url="https://github.com/stuart-watt/stuart_plot",
